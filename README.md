@@ -1,4 +1,4 @@
-# FITSQuickLook
+
 # FITS QuickLook
 
 FITS QuickLook is a macOS application for quick visualization and inspection of astronomical FITS images, especially designed for LAMOST spectral data.
