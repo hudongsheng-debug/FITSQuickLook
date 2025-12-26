@@ -48,6 +48,11 @@ This project is currently distributed as a standalone macOS application.
 - Clone or download the repository
 - Build using Xcode (macOS required)
 
+- 🙌 Acknowledgements
+	•	NASA FITS standard
+	•	LAMOST project
+	•	Astronomical data processing community
+
 ## Support
 
 If you encounter issues or have suggestions, please open an issue on this repository or contact the developer.
