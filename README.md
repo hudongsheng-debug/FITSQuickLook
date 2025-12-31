@@ -32,10 +32,6 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 ## 🛰 Supported Data
 
 - Standard **FITS** image files (`.fits`, `.fit`)
-- Large 2D astronomical images
-- LAMOST spectroscopic data formats
-
----
 
 ## 🛠 Platform
 
