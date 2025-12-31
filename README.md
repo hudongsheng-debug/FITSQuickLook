@@ -46,14 +46,11 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 
 ## 📦 Installation
 
-This project is currently distributed as a standalone macOS application.
-
-- Clone or download the repository
-- Build using Xcode (macOS required)
+FITS QuickLook is available on the Mac App Store.
 
 ## 🙌 Acknowledgements
 	•	LAMOST project
-	•	Weinmin Sun Haipin Chen
+	•   Weinmin Sun  &  Haipin Chen 
 
 ## Support
 
