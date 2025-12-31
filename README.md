@@ -12,7 +12,7 @@ It is especially tailored for large-scale spectroscopic survey data such as **LA
 - 🖥 Native macOS application with a simple and responsive interface
 - 🧪 Ideal for **researchers, students, and engineers** working with astronomical data
 
-- ## Version 1.0 New Features
+- ## Version 1.2 New Features
 - 🎨 Colormap support
 Switch between Grayscale and Turbo colormaps for better contrast and feature visibility.
 - Highlight clipping (vmax control)
