@@ -44,7 +44,7 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 ## Version 1.5.1 New Features
 - Added a Lock feature to fix the currently selected row or column.
 - Improved overall APP responsivene.
-- 
+
 ## Version 1.6.0 New Features
 - The Profile Panel now displays basic statistics, including minimum, maximum, mean, and standard deviation.
 - Added the ability to export the selected row or column profile as a CSV file.
