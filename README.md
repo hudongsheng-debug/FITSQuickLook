@@ -76,7 +76,7 @@ FITS QuickLook is available on the Mac App Store.
 
 ## 🙌 Acknowledgements
 	•	LAMOST project
-	•   Weinmin Sun  &  Haipin Chen 
+	•   Weinmin Sun  &  Haiping Chen 
 
 ## Support
 
