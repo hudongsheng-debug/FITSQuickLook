@@ -39,7 +39,7 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 - Added a Profile Panel for inspecting image data along a single row or column.
 - Users can select an individual row or column to view its intensity profile.
 - The Profile Panel can be freely repositioned to avoid obscuring image content.
-- 
+
 ## Version 1.5.1 New Features
 - Added a Lock feature to fix the currently selected row or column.
 - Improved overall APP responsivene.
