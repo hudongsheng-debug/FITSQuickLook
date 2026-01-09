@@ -1,5 +1,4 @@
-
-# FITS QuickLook Version 1.6.0
+# FITS QuickLook Version 1.7.0
 
 FITS QuickLook is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -50,6 +49,14 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 - Added the ability to export the selected row or column profile as a CSV file.
 - Improved interaction logic so that the selected row or column is determined directly from user selection, independent of control button positions.
 
+## Version 1.7.0 New Features
+- Added support for comparing multiple profile curves within the Profile Panel.
+- Users can now remove individual profile curves or clear all pinned curves.
+- Updated the Profile Panel toolbar layout:
+- 1.Buttons are now con-only for a cleaner appearance.
+- 2.Button functions are revealed on hove rfor improved usability.
+- Added a Help button to explain the Profile Panel controls.
+- Unified the Profile Panel size to remain consistent across different interaction states.
 
 ## 🧠 Use Cases
 
