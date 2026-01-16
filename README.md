@@ -1,4 +1,4 @@
-# FITS QuickLook Version 1.9.0
+# FITS QuickLook Version 2.1.20
 
 FITS QuickLook is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -72,7 +72,62 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 This release marks the final update of our first-generation version.
 - Added a crosshair overlay to improve spatial accuracy when inspecting pixels.
 -  Added Profile view modes: Raw, Normalize, and Δ (adjacent difference), enabling enhanced edge detection and defect inspection.
-- 💗The second generation is coming soon. Stay tuned.
+
+## Version 2.1.20  New Features
+
+**New Advanced Analysis Panel**
+
+A powerful new workspace for quantitative analysis of FITS images.
+
+**• Row Summation**
+
+Sum pixel values across selected rows to generate 1D projections.
+
+**• Column Summation**
+
+Sum pixel values across selected columns for vertical projections.
+
+**• Partial Range Support**
+
+Define start and end positions to analyze only a specific region of interest.
+
+**• Parametric Scan**
+
+Automatically scan across a range using Start, End and Step to generate a full projection series.
+
+**• Curve Color Picker**
+
+Customize curve colors for clearer comparison and publication-ready plots.
+
+**• Scrollable Axis**
+
+When data exceeds the view width, drag to scroll along the axis while keeping global coordinates.
+
+**• Export Projection to CSV**
+
+Export row or column projections for use in Python, MATLAB or other analysis tools.
+
+**• Crop & Export Raw Pixels**
+
+Export raw pixel values from any user-defined rectangular region as CSV.
+
+**• View Rotation**
+
+Rotate the image by 90° steps for better orientation (display only — data remains unchanged).
+
+**• New Logo**
+
+ Redesigned app logo for a cleaner and more modern look
+
+Added a new **Professional panel** with advanced FITS inspection tools
+
+Introduced optional distortion-correction features, including FITS export, keystone correction, and smile correction
+
+Added zoom support up to **200×** for detailed image inspection
+
+Improved compatibility with additional **FITS file formats**
+
+Reduced system requirements: iOS 15.0+, macOS 14.0+, visionOS 1.0+
 
 
 ## 🧠 Use Cases
