@@ -117,17 +117,17 @@ Rotate the image by 90° steps for better orientation (display only — data rem
 
 **• New Logo**
 
- Redesigned app logo for a cleaner and more modern look
+Redesigned app logo for a cleaner and more modern look
 
-Added a new **Professional panel** with advanced FITS inspection tools
+• Added a new **Professional panel** with advanced FITS inspection tools
 
-Introduced optional distortion-correction features, including FITS export, keystone correction, and smile correction
+• Introduced optional distortion-correction features, including FITS export, keystone correction, and smile correction
 
-Added zoom support up to **200×** for detailed image inspection
+• Added zoom support up to **200×** for detailed image inspection
 
-Improved compatibility with additional **FITS file formats**
+• Improved compatibility with additional **FITS file formats**
 
-Reduced system requirements: iOS 15.0+, macOS 14.0+, visionOS 1.0+
+• Reduced system requirements: iOS 15.0+, macOS 14.0+, visionOS 1.0+
 
 
 ## 🧠 Use Cases
