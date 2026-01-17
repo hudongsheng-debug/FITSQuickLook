@@ -1,4 +1,4 @@
-# FITS QuickLook Version 2.1.20
+# FITS QuickLook Version 2.1.21
 
 FITS QuickLook is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -129,6 +129,8 @@ Redesigned app logo for a cleaner and more modern look
 
 • Reduced system requirements: iOS 15.0+, macOS 14.0+, visionOS 1.0+
 
+## Version 2.1.21  New Features
+•  Added a button to check for version updates.
 
 ## 🧠 Use Cases
 
