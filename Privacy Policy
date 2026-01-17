@@ -5,7 +5,7 @@ FITS QuickLook does not collect, store, or transmit any personal data.
 - No personal information is collected.
 - No analytics or tracking is used.
 - All files are processed locally on the user's device.
-- No network connection is required.
+- （ Version 2.1.21 ）Network access is not required for core functionality. Optional outgoing network access is used solely for version checking.
 
 If you have any questions, please contact:
 hudongsheng356@gmail.com
