@@ -133,7 +133,7 @@ Redesigned app logo for a cleaner and more modern look
 •  Added a button to check for version updates.
 
 ## Version 2.2.17 New Features
-Interactive Plot Enhancements
+**Interactive Plot Enhancements**
 
 • Added crosshair inspection with real-time X/Y value display.
 
@@ -143,7 +143,7 @@ Interactive Plot Enhancements
 
 • Rectangle (box) zoom for intuitive range selection.
 
-Refined Plot Controls
+**Refined Plot Controls**
 
 • Streamlined toolbar with compact icon-based controls.
 
@@ -151,13 +151,13 @@ Refined Plot Controls
 
 • Improved color selection workflow for plot styling.
 
-Enhanced Data Parsing
+**Enhanced Data Parsing**
 
 • Added support for 1D Table FITS files that cannot be plotted,
 
 enabling inspection in a parsed (non-plot) data view.
 
-Better User Guidance
+**Better User Guidance**
 
 • Added contextual help explaining crosshair, zoom, and interaction gestures.
 
