@@ -1,4 +1,4 @@
-# FITS QuickLook Version 2.1.21
+# FITS QuickLook X Version 2.2.17
 
 FITS QuickLook is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -131,6 +131,27 @@ Redesigned app logo for a cleaner and more modern look
 
 ## Version 2.1.21  New Features
 •  Added a button to check for version updates.
+
+## Version 2.2.17 New Features
+Interactive Plot Enhancements
+• Added crosshair inspection with real-time X/Y value display.
+• Crosshair can optionally snap to the nearest data point in line plots for more precise reading.
+• Support for mouse wheel / trackpad zoom on the X-axis, centered at the cursor position.
+• Rectangle (box) zoom for intuitive range selection.
+
+Refined Plot Controls
+• Streamlined toolbar with compact icon-based controls.
+• Dedicated reset action to quickly restore full plot ranges.
+• Improved color selection workflow for plot styling.
+
+Enhanced Data Parsing
+• Added support for 1D Table FITS files that cannot be plotted,
+enabling inspection in a parsed (non-plot) data view.
+
+Better User Guidance
+• Added contextual help explaining crosshair, zoom, and interaction gestures.
+• Update notifications are now shown non-intrusively in the main toolbar.
+
 
 ## 🧠 Use Cases
 
