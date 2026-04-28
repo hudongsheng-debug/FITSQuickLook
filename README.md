@@ -79,89 +79,89 @@ This release marks the final update of our first-generation version.
 
 A powerful new workspace for quantitative analysis of FITS images.
 
-**• Row Summation**
+**- Row Summation**
 
 Sum pixel values across selected rows to generate 1D projections.
 
-**• Column Summation**
+**- Column Summation**
 
 Sum pixel values across selected columns for vertical projections.
 
-**• Partial Range Support**
+**- Partial Range Support**
 
 Define start and end positions to analyze only a specific region of interest.
 
-**• Parametric Scan**
+**- Parametric Scan**
 
 Automatically scan across a range using Start, End and Step to generate a full projection series.
 
-**• Curve Color Picker**
+**- Curve Color Picker**
 
 Customize curve colors for clearer comparison and publication-ready plots.
 
-**• Scrollable Axis**
+**- Scrollable Axis**
 
 When data exceeds the view width, drag to scroll along the axis while keeping global coordinates.
 
-**• Export Projection to CSV**
+**- Export Projection to CSV**
 
 Export row or column projections for use in Python, MATLAB or other analysis tools.
 
-**• Crop & Export Raw Pixels**
+**- Crop & Export Raw Pixels**
 
 Export raw pixel values from any user-defined rectangular region as CSV.
 
-**• View Rotation**
+**- View Rotation**
 
 Rotate the image by 90° steps for better orientation (display only — data remains unchanged).
 
-**• New Logo**
+**- New Logo**
 
 Redesigned app logo for a cleaner and more modern look
 
-• Added a new **Professional panel** with advanced FITS inspection tools
+- Added a new **Professional panel** with advanced FITS inspection tools
 
-• Introduced optional distortion-correction features, including FITS export, keystone correction, and smile correction
+- Introduced optional distortion-correction features, including FITS export, keystone correction, and smile correction
 
-• Added zoom support up to **200×** for detailed image inspection
+- Added zoom support up to **200×** for detailed image inspection
 
-• Improved compatibility with additional **FITS file formats**
+- Improved compatibility with additional **FITS file formats**
 
-• Reduced system requirements: iOS 15.0+, macOS 14.0+, visionOS 1.0+
+- Reduced system requirements: iOS 15.0+, macOS 14.0+, visionOS 1.0+
 
 ## Version 2.1.21  New Features
-•  Added a button to check for version updates.
+-  Added a button to check for version updates.
 
 ## Version 2.2.17 New Features
 **Interactive Plot Enhancements**
 
-• Added crosshair inspection with real-time X/Y value display.
+- Added crosshair inspection with real-time X/Y value display.
 
-• Crosshair can optionally snap to the nearest data point in line plots for more precise reading.
+- Crosshair can optionally snap to the nearest data point in line plots for more precise reading.
 
-• Support for mouse wheel / trackpad zoom on the X-axis, centered at the cursor position.
+- Support for mouse wheel / trackpad zoom on the X-axis, centered at the cursor position.
 
-• Rectangle (box) zoom for intuitive range selection.
+- Rectangle (box) zoom for intuitive range selection.
 
 **Refined Plot Controls**
 
-• Streamlined toolbar with compact icon-based controls.
+- Streamlined toolbar with compact icon-based controls.
 
-• Dedicated reset action to quickly restore full plot ranges.
+- Dedicated reset action to quickly restore full plot ranges.
 
-• Improved color selection workflow for plot styling.
+- Improved color selection workflow for plot styling.
 
 **Enhanced Data Parsing**
 
-• Added support for 1D Table FITS files that cannot be plotted,
+- Added support for 1D Table FITS files that cannot be plotted,
 
 enabling inspection in a parsed (non-plot) data view.
 
 **Better User Guidance**
 
-• Added contextual help explaining crosshair, zoom, and interaction gestures.
+- Added contextual help explaining crosshair, zoom, and interaction gestures.
 
-• Update notifications are now shown non-intrusively in the main toolbar.
+- Update notifications are now shown non-intrusively in the main toolbar.
 
 
 ## Version 3.1.1 New Features
@@ -169,31 +169,31 @@ enabling inspection in a parsed (non-plot) data view.
 We’ve rethought our design direction — iOS now leads the experience.
 
 This update includes:
-• Redesigned interface for iPad and iPhone
-• New launch screen
-•  Updated app icon
-• Color-coded tabs for file types
-• Minimum window size support
-• Improved toolbar layout and spacing
+- Redesigned interface for iPad and iPhone
+- New launch screen
+-  Updated app icon
+- Color-coded tabs for file types
+- Minimum window size support
+- Improved toolbar layout and spacing
 
 ## Version 3.2.5 New Features
 Back after three months with a focused round of improvements.
 
-• Added a launch screen
-• Improved minimization and window behavior
-• Fixed lag when dragging the Profile panel
-• Added an exit control to the Range panel
-• Reset now properly restores both Profile and Range
-• Refined Range panel behavior
+- Added a launch screen
+- Improved minimization and window behavior
+- Fixed lag when dragging the Profile panel
+- Added an exit control to the Range panel
+- Reset now properly restores both Profile and Range
+- Refined Range panel behavior
 
 
 
 ## Version 3.2.7 New Features
 This version is the final minor update for UI unification.
 
-• “Professional” is now green, and the steps inside are also highlighted in green when active.
-• Expanding “Tools” will automatically hide the section below.
-• Improved overall smoothness and performance.
+- “Professional” is now green, and the steps inside are also highlighted in green when active.
+- Expanding “Tools” will automatically hide the section below.
+- Improved overall smoothness and performance.
 
 
 
@@ -224,8 +224,8 @@ This version is the final minor update for UI unification.
 FITS QuickLook is available on the Mac App Store.
 
 ## 🙌 Acknowledgements
-	•	LAMOST project
-	•   Weinmin Sun  &  Haiping Chen 
+	-	LAMOST project
+	-   Weinmin Sun  &  Haiping Chen 
 
 ## Support
 
