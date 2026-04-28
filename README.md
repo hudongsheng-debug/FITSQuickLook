@@ -1,4 +1,4 @@
-# FITS QuickLook X Version 3.2.7
+# FITS QuickLook X Version 4.1.1
 
 FITS QuickLook is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -195,8 +195,12 @@ This version is the final minor update for UI unification.
 - Expanding “Tools” will automatically hide the section below.
 - Improved overall smoothness and performance.
 
+## Version 4.1.1 New Features
+Introduces the Noise Region Detection model (Beta 1) to macOS.
 
-
+- Added a “Noise Scan” button to the toolbar
+- Noise Scan panel now supports minimization
+- Noise Region Detection (Beta 1) is now available
 
 
 
