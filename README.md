@@ -1,6 +1,6 @@
 # FITS QuickLook X Version 4.4.2
 
-FITS QuickLook is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
+FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
 
 ## ✨ Features
@@ -248,7 +248,7 @@ More Profile features coming soon.
 
 ## 📦 Installation
 
-FITS QuickLook is available on the Mac App Store.
+FITS QuickLook X is available on the Mac App Store.
 
 ## 🙌 Acknowledgements
 	-	LAMOST project
