@@ -222,6 +222,7 @@ This update introduces a new Compare feature for the Mac version.
 
 ## Version 4.4.2 New Features
 Added new window analysis to the Profile panel, with support for exporting selected rows/columns to a separate window.
+
 More Profile features coming soon.
 
 
