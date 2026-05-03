@@ -225,7 +225,16 @@ Added new window analysis to the Profile panel, with support for exporting selec
 
 More Profile features coming soon.
 
+## Version 4.5.6 New Features
+In this update, we’ve added more features to the Profile panel in the new analysis window:
 
+- Reset Zoom  
+- Cursor readout  
+- Export data to CSV  
+- Auto-fit window height based on Y values  
+- Grid lines and zero baseline  
+- Vertical panning support  
+- Pinch to zoom at the cursor location
 
 ## 🧠 Use Cases
 
