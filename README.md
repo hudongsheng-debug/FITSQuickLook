@@ -1,4 +1,4 @@
-# FITS QuickLook X Version 4.6.3
+# FITS QuickLook X Version 4.7.2
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -242,6 +242,17 @@ In this update, we’ve added three useful features to the Profile panel in the 
 - Crosshair support  
 - Rectangular zoom  
 - Y-axis scale on the left
+
+
+## Version 4.7.2 New Features 
+This update brings the new window analysis features from the Profile panel to the Advance panel.
+
+- The Advance panel now includes all features from the Profile panel’s new window analysis  
+- Fixed incorrect help documentation in the Advance panel
+- Added descriptions for the new window analysis button in the Advance panel help documentation
+- Updated the default curve color in the Advance panel to purple
+- Replaced all “FITS QuickLook” references with “FITS QuickLook X”, including window titles and app display names
+
 
 ## 🧠 Use Cases
 
