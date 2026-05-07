@@ -1,4 +1,4 @@
-# FITS QuickLook X Version 4.7.2
+# FITS QuickLook X Version 5.1.1
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -252,6 +252,26 @@ This update brings the new window analysis features from the Profile panel to th
 - Added descriptions for the new window analysis button in the Advance panel help documentation
 - Updated the default curve color in the Advance panel to purple
 - Replaced all “FITS QuickLook” references with “FITS QuickLook X”, including window titles and app display names
+
+
+## Version 5.1.1 New Features 
+This update brings more powerful new-window analysis features to the Profile and Advanced panels, along with a redesigned main interface for the Mac version.
+
+Features
+
+- Imported curves now support independent show/hide control.
+- Imported curves can now be individually removed.
+- X-axis ticks have been added to the new analysis window, with improved adaptation for different row/column display ranges.
+- Multi-curve workflows now support simultaneous crosshair inspection.
+- The Profile panel now supports difference calculation between two selected curves, with results displayed in the upper-left difference panel.
+- The CSV button has been updated to export all curves together, while individual CSV export is now supported for each curve separately.
+
+Interface
+
+- The Mac main interface has been significantly redesigned with a new scrollable card-based file-opening workflow.
+- Import backgrounds now support astronomy-inspired starfield visuals.
+- External button icons have been redesigned with improved visual depth and selection scaling effects.
+- Fixed a bug where the Reopen button became unavailable after closing non-2D FITS tabs.
 
 
 ## 🧠 Use Cases
