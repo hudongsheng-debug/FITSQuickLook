@@ -1,4 +1,4 @@
-# FITS QuickLook X Version 5.2.6
+# FITS QuickLook X Version 5.2.9
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -315,7 +315,7 @@ This update focuses on refining the design of the Mac interface.
 
 
 
-## Version 5。2.6 New Features
+## Version 5.2.6 New Features
 - Added a new FFT analysis workspace for row/column frequency analysis
 - Added Log Scale, FFT Shift, Peak Detection, and PSD modes for FFT visualization
 - Added interactive FFT zooming and panning with trackpad/mouse gestures
@@ -325,6 +325,21 @@ This update focuses on refining the design of the Mac interface.
 - Added Tools menu shortcuts for ROI and FFT panels
 - Improved Advanced analysis workflow with clearer single-curve and multi-curve behaviors
 - Fixed Open Window color synchronization issues between pinned and newly opened curves
+
+## Version 5.2.9 New Features
+- Added multi-row / multi-column selection support in Matrix Workspace
+- Added Multi Select mode for plotting multiple Row / Column profiles simultaneously
+- Added multi-row / multi-column sum analysis (Sum Plot)
+- Added full row / full column highlight selection
+- Added Sidebar-based Matrix control panel
+- Added Matrix Plot / Sum / ROI operations from Sidebar
+- Added Matrix Viewport controls (Row / Column range)
+- Added Matrix editing mode toggle
+- Added support for opening Edited Matrix in a new window
+- Improved Matrix Workspace interaction and scientific analysis workflow
+
+
+
 
 ## 🧠 Use Cases
 
