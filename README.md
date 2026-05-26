@@ -1,4 +1,4 @@
-# FITS QuickLook X Version 5.2.9
+# FITS QuickLook X Version 5.3.9
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -326,7 +326,7 @@ This update focuses on refining the design of the Mac interface.
 - Improved Advanced analysis workflow with clearer single-curve and multi-curve behaviors
 - Fixed Open Window color synchronization issues between pinned and newly opened curves
 
-## Version 5.2.9 New Features
+## Version 5.3.9 New Features
 - Added multi-row / multi-column selection support in Matrix Workspace
 - Added Multi Select mode for plotting multiple Row / Column profiles simultaneously
 - Added multi-row / multi-column sum analysis (Sum Plot)
