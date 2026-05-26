@@ -1,4 +1,4 @@
-# FITS QuickLook X Version 5.1.15
+# FITS QuickLook X Version 5.2.6
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -313,6 +313,18 @@ This update focuses on refining the design of the Mac interface.
 - Fixed an issue in Open New Window Analysis where multiple curves could appear with the same color. Curves are now displayed with properly differentiated colors.
 - Added direct Row / Column input support for New Window Analysis, allowing specific rows or columns to be opened instantly for faster spectral analysis.
 
+
+
+## Version 5。2.6 New Features
+- Added a new FFT analysis workspace for row/column frequency analysis
+- Added Log Scale, FFT Shift, Peak Detection, and PSD modes for FFT visualization
+- Added interactive FFT zooming and panning with trackpad/mouse gestures
+- Added FFT CSV export support for external scientific analysis workflows
+- Added ROI Image workspace support for localized image analysis
+- Added Advanced multi-range curve analysis for simultaneous summed profile comparison
+- Added Tools menu shortcuts for ROI and FFT panels
+- Improved Advanced analysis workflow with clearer single-curve and multi-curve behaviors
+- Fixed Open Window color synchronization issues between pinned and newly opened curves
 
 ## 🧠 Use Cases
 
