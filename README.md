@@ -1,4 +1,4 @@
-# FITS QuickLook X Version 5.3.9
+# FITS QuickLook X Version 6.0.0
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -338,8 +338,19 @@ This update focuses on refining the design of the Mac interface.
 - Added support for opening Edited Matrix in a new window
 - Improved Matrix Workspace interaction and scientific analysis workflow
 
+## Version 6.0.0  New Features
+Version 6 introduces a major expansion of 2D matrix analysis and scientific processing features in FITS QuickLook X.
 
-
+- Added the new Matrix Workspace for interactive 2D matrix inspection and editing
+- Added Matrix Expression processing for ROI and full-image operations
+- Supported functions now include log, log10, sqrt, abs, pow, gamma, and clip
+- Added Expression CSV export for processed matrix results
+- Added Matrix Heatmap, Surface, and Contour visualization tools
+- Improved matrix editing workflow and multi-selection behavior
+- Enhanced Matrix Window management and activation behavior
+- Added safeguards for large full-image operations to improve stability
+- Redesigned the startup experience with the new FITS QuickLook X 6 visual style
+- Further refinements across the interface, animations, and scientific workflows
 
 ## 🧠 Use Cases
 
