@@ -1,4 +1,4 @@
-# FITS QuickLook X Version 7.0.0
+# FITS QuickLook Studio Version 7.1.7
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -376,6 +376,19 @@ New in this release:
 * Gaussian fitting
 * 1st–5th order polynomial fitting
 - Added export options for fitted plots and fitting parameters.
+
+
+## Version 7.1.7 New Features
+
+FITS QuickLook X is now officially renamed  FITS QuickLook Studio.
+- Added curve width and color controls in the fitting panel
+- Added sin, cos, tan, and exponential fitting functions
+- Added new plot markers: circle, star, heart, triangle, and square
+- Improved the layout of several controls
+- Added a new Peak Detection Analysis tool
+
+Thank you for using FITS QuickLook Studio!
+  
 
 ## 🧠 Use Cases
 
