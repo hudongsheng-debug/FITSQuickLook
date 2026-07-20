@@ -1,4 +1,4 @@
-# FITS QuickLook Studio Version 7.2.2
+# FITS QuickLook Studio Version 7.3.0
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -396,6 +396,17 @@ In this version, the following new features have been added:
 - Added support for exporting peak detection results in Range mode.
 - Added a new feature for exporting peak detection results.
 - Optimized the workflow and overall user interaction logic.
+
+## Version 7.3.0 New Features
+
+A new level of scientific data compatibility.
+
+- Added MAT to FITS conversion for MATLAB numeric matrices.
+- Added XLSX to FITS conversion with worksheet selection.
+- Supports Float32 and Float64 FITS output.
+- Added transpose options during conversion.
+- Improved compatibility with compressed MAT files and modern XLSX workbooks.
+- Various stability and usability improvements.
 
 ## 🧠 Use Cases
 
