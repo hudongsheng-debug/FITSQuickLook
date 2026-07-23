@@ -426,10 +426,11 @@ Minor update with improvements:
 - Improved the overall user experience across Mac, iPad, and iPhone.
 - Apple Intelligence features require supported devices and are currently unavailable in some regions, languages, or configurations.
   e.g.
-<p align="center">
-  <img width="650" alt="Science Assistant" src="https://github.com/user-attachments/assets/ba3b6494-3313-4605-b4fe-fedc7080cc9a" />
-</p>
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ba3b6494-3313-4605-b4fe-fedc7080cc9a" width="450" align="top">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3e12f4a6-08e6-4907-b515-51d671498733" width="450" align="top">
+</div>
 
 
 ## 🧠 Use Cases
