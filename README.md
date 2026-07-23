@@ -426,7 +426,7 @@ Minor update with improvements:
 - Improved the overall user experience across Mac, iPad, and iPhone.
 - Apple Intelligence features require supported devices and are currently unavailable in some regions, languages, or configurations.
   e.g.
-  ![Uploading Screenshot 2026-07-23 at 10.42.31 AM.png…]()
+  <img width="1032" height="784" alt="Screenshot 2026-07-23 at 10 42 31 AM" src="https://github.com/user-attachments/assets/bf0ef497-ed0d-4c2b-b30b-c0d265df6883" />
 
 
 
