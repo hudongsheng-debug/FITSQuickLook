@@ -427,7 +427,7 @@ Minor update with improvements:
 - Apple Intelligence features require supported devices and are currently unavailable in some regions, languages, or configurations.
   e.g.
 <p align="center">
-<img width="1032" height="784" alt="Screenshot 2026-07-23 at 10 42 31 AM" src="https://github.com/user-attachments/assets/ba3b6494-3313-4605-b4fe-fedc7080cc9a" />
+  <img width="650" alt="Science Assistant" src="https://github.com/user-attachments/assets/ba3b6494-3313-4605-b4fe-fedc7080cc9a" />
 </p>
 
 
