@@ -1,4 +1,4 @@
-# FITS QuickLook Studio Version 8.0.0
+# FITS QuickLook Studio Version 8.1.1
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
@@ -432,6 +432,12 @@ Minor update with improvements:
   <img src="https://github.com/user-attachments/assets/3e12f4a6-08e6-4907-b515-51d671498733" width="450" align="top">
 </div>
 
+
+## Version 8.1.1 New Features
+- Refined the redesigned top navigation with a cleaner full-width tab experience.
+- Added a new Favorites tab for faster access to commonly used features.
+- Enhanced the visual appearance of the Tools and AI panels with improved transparency effects.
+- General interface refinements and stability improvements.
 
 ## 🧠 Use Cases
 
