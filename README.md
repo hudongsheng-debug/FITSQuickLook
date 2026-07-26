@@ -446,6 +446,7 @@ Minor update with improvements:
 - Performance improvements and bug fixes.
 
 ## Version 8.1.6 New Features
+### This release marks the beginning of our AI enhancement journey.
 - Significantly enhanced Apple Intelligence with expanded parameter understanding across the entire application.
 - FFT, Plot, Peak Analysis, and Curve Fitting now support comprehensive parameterized workflows.
 - Added parameterized control for image visualization, analysis, ROI, annotations, matrix editing, data conversion, and export.
