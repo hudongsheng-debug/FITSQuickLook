@@ -517,8 +517,6 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 
 
 
-
-
 ## 🧠 Use Cases
 
 - Rapid quality check of FITS images before pipeline processing
@@ -529,7 +527,7 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 
 ## 🛰 Supported Data
 
-- Standard **FITS** image files (`.fits`, `.fit`)
+- Standard **FITS** image files (`.fits`, `.fit`) and （`Bintable`)
 
 ## 🛠 Platform
 
@@ -540,7 +538,7 @@ Instantly reset zoom and pan to the original view for fast navigation during ins
 
 ## 📦 Installation
 
-FITS QuickLook X is available on the Mac App Store.
+FITS QuickLook Studio is available on the Mac App Store.
 
 ## 🙌 Acknowledgements
 	-	LAMOST project
