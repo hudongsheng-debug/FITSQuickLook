@@ -20,7 +20,7 @@ It is especially tailored for large-scale spectroscopic survey data such as **LA
 - Export selected FITS rows directly to CSV with AI assistance.
 
 
-## Version 8.1.8 New Features
+## Version 8.1.10 New Features
 
 - Multi-step AI operations now require fewer confirmations while maintaining protection for sensitive actions
 - Improved understanding of natural language commands with automatic parameter calculation and preview.
