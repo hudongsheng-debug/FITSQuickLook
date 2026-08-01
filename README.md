@@ -1,9 +1,108 @@
-# FITS QuickLook Studio Version 8.2.5
+# FITS QuickLook Studio Version 8.4.1
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
 
 ## ✨ Features
+## Version 8.4.1 New Features
+### Expanded AI model support with a more flexible API ecosystem.
+
+- Added support for more third-party AI providers:
+  - **Baidu Wenxin (Qianfan) API**
+  - **Google Gemini API**
+  - **xAI Grok API**
+- Improved API Key management:
+  - Added a redesigned API Key configuration page.
+  - Added provider-specific settings and usage guidance.
+  - Improved API connection management and user configuration experience.
+- Enhanced AI model integration:
+  - AI continues to prioritize FITS QuickLook Studio built-in tools for scientific operations.
+  - External AI models are used primarily for language understanding and reasoning.
+  - Improved compatibility across different AI providers.
+- Added API usage notes:
+  - Availability, free quotas, and pricing policies depend on each provider.
+  - Users should check the official provider console for the latest information.
+
+### API Provider Notes
+
+**Baidu Qianfan**
+
+- New users may receive free usage credits.
+- According to current official information, eligible new users may receive up to **1 million Tokens per supported model**, valid for a limited period.
+- Available models and remaining quota depend on the Qianfan console.
+
+**Google Gemini**
+
+- Some Gemini models provide a Free Tier with free input/output Tokens.
+- Free usage is subject to rate limits such as requests per minute and daily limits.
+- Availability of the Free Tier depends on model and region.
+
+**xAI Grok**
+
+- API usage is generally based on Token billing.
+- The free availability of the Grok web service does not imply free API access.
+- Users should refer to the official xAI API pricing page for current information.
+
+**For BINTABLE**
+- Added AI-assisted understanding for FITS BINTABLE data.
+- AI can now access basic table information, including:
+  - File name
+  - EXTNAME
+  - Number of rows and columns
+  - Field names
+  - Header information
+- Added awareness of the current BINTABLE visualization:
+  - Selected column
+  - Plot mode (Line / Histogram)
+  - Basic statistical information
+- Improved natural language interaction:
+  - Ask AI to summarize the current table.
+  - Analyze table structure.
+  - Select columns for visualization.
+  - Export selected data.
+- Improved synchronization between BINTABLE data, plots, and AI context.
+- This is the first release of AI-assisted BINTABLE analysis, with more capabilities coming in future updates.
+
+## Version 8.3.0 New Features
+### Expanded AI flexibility with third-party model support and improved tool intelligence.
+
+- Added support for third-party API integrations:
+  - Connect your own **Qwen API Key**.
+  - Connect your own **ChatGPT API Key**.
+- Added a new API Key management page for easier configuration and model access.
+- Improved AI tool selection:
+  - The assistant now prioritizes built-in FITS QuickLook Studio tools when available.
+  - AI responses are better integrated with the app’s native workflows instead of relying only on external models.
+- Improved model flexibility and user control:
+  - Users can choose their preferred AI service.
+  - API-based models can be used alongside local application capabilities.
+- Improved overall AI workflow reliability and execution consistency.
+
+
+
+
+
+
+
+
+## Version 8.2.5 New Features
+### Improved AI understanding for a more natural scientific workflow.
+
+- Enhanced local language understanding for AI interactions.
+- Preserved professional terminology without translation, including FITS, FFT, ROI, BITPIX, NAXIS, and other scientific keywords.
+- Improved natural language operation support:
+  - Users no longer need to specify exact button or tool names.
+  - AI can understand user intent and map requests to existing application workflows.
+- Upgraded AI request processing from simple category selection to a structured understanding pipeline:
+  - User intent
+  - Standardized request
+  - Clarification requirement
+- The interpreted request is silently passed to the tool-selection stage for more reliable execution.
+- Improved error handling:
+  - When the model incorrectly refuses a valid request, AI automatically switches to real application context for interpretation.
+- Improved overall AI reliability and workflow consistency.
+
+
 ## Version 8.2.0 New Features
 ### A smarter and more reliable way to control your scientific workflow.
 
