@@ -1,9 +1,44 @@
-# FITS QuickLook Studio Version 8.4.1
+# FITS QuickLook Studio Version 8.4.5
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
 
 ## ✨ Features
+## Version 8.4.5 New Features
+### Faster, Smoother FITS Preview with Metal GPU Acceleration.
+### Bug Fixes
+1.Fixed the issue where top menu items remained enabled without opening a FITS file.
+2.Menu items: Header, Display, General, Data Analysis, Noise Detection, Distortion Correction and Close Tab will be automatically disabled when no FITS file loaded.
+3.Shortcut triggering of Header panel is blocked to prevent empty popup windows.
+4.Menus are re-enabled automatically after loading 2D FITS, BINTABLE or Matrix data.
+
+### Changes
+1.Relocated the check-for-updates entry: you can tap Welcome page to check updates now.
+
+### Performance Improvements
+1.Optimized processing for large files, including memory usage, rendering and column switching for huge matrices and large tables.
+2.Multi-core CPU parallelism for FITS loading, BINTABLE decoding, statistics and smoothing computation.
+3.Added fallback-enabled Metal renderer for matrix visualization. Supports Grayscale/Turbo color mapping, vmin/vmax adjustment and high-value clipping.
+4.Automatically falls back to legacy CPU rendering if Metal is unavailable or texture creation fails.
+5.Pipeline allocation: CPU handles data parsing & statistics; Metal GPU accelerates matrix color mapping and image generation; SwiftUI handles UI composition.
+6.Significantly improves rendering performance for large 2D FITS matrix preview.
+
+# Version 8.4.4 New Features
+
+• Completely redesigned the BINTABLE workspace with a cleaner, more modern scientific interface.
+• Added enhanced Line, Histogram, and CDF visualization modes.
+• Added multi-column overlays for comparing numeric BINTABLE data series.
+• Added configurable line smoothing, range filtering, standard-deviation bands, and outlier highlighting.
+• Added optional mean and median indicators for histograms.
+• Added logarithmic histogram scaling and cumulative distribution analysis.
+• Expanded Science Assistant support for BINTABLE data, including natural-language plotting, filtering, smoothing, comparison, analysis, and export commands.
+• Added CSV export for raw columns and currently displayed data.
+• Added PNG and PDF export for BINTABLE plots.
+• Improved Crosshair visibility with a new high-contrast design.
+• Fixed incorrect plot sizing after switching BINTABLE columns.
+• Fixed BINTABLE tab interaction, closing, and favorite controls.
+• Improved scrolling, toolbar layout, chart stability, and overall usability.
+
 ## Version 8.4.1 New Features
 ### Expanded AI model support with a more flexible API ecosystem.
 
@@ -25,10 +60,8 @@ It is especially tailored for large-scale spectroscopic survey data such as **LA
 
 ### API Provider Notes
 
-**Baidu Qianfan**
-
-- New users may receive free usage credits.
-- According to current official information, eligible new users may receive up to **1 million Tokens per supported model**, valid for a limited period.
+**Baidu - New users may receive free usage credits.
+- According to current official information,  new users may receive up to **1 million Tokens per supported model**, valid for a limited period.
 - Available models and remaining quota depend on the Qianfan console.
 
 **Google Gemini**
