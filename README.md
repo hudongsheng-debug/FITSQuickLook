@@ -23,7 +23,8 @@ It is especially tailored for large-scale spectroscopic survey data such as **LA
 5.Pipeline allocation: CPU handles data parsing & statistics; Metal GPU accelerates matrix color mapping and image generation; SwiftUI handles UI composition.
 6.Significantly improves rendering performance for large 2D FITS matrix preview.
 
-# Version 8.4.4 New Features
+## Version 8.4.4 New Features
+### All-new BINTABLE. Powerful visualization for sharper scientific insights.
 
 • Completely redesigned the BINTABLE workspace with a cleaner, more modern scientific interface.
 
