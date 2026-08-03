@@ -8,8 +8,11 @@ It is especially tailored for large-scale spectroscopic survey data such as **LA
 ### Faster, Smoother FITS Preview with Metal GPU Acceleration.
 ### Bug Fixes
 1.Fixed the issue where top menu items remained enabled without opening a FITS file.
+
 2.Menu items: Header, Display, General, Data Analysis, Noise Detection, Distortion Correction and Close Tab will be automatically disabled when no FITS file loaded.
+
 3.Shortcut triggering of Header panel is blocked to prevent empty popup windows.
+
 4.Menus are re-enabled automatically after loading 2D FITS, BINTABLE or Matrix data.
 
 ### Changes
@@ -17,10 +20,15 @@ It is especially tailored for large-scale spectroscopic survey data such as **LA
 
 ### Performance Improvements
 1.Optimized processing for large files, including memory usage, rendering and column switching for huge matrices and large tables.
+
 2.Multi-core CPU parallelism for FITS loading, BINTABLE decoding, statistics and smoothing computation.
+
 3.Added fallback-enabled Metal renderer for matrix visualization. Supports Grayscale/Turbo color mapping, vmin/vmax adjustment and high-value clipping.
+
 4.Automatically falls back to legacy CPU rendering if Metal is unavailable or texture creation fails.
+
 5.Pipeline allocation: CPU handles data parsing & statistics; Metal GPU accelerates matrix color mapping and image generation; SwiftUI handles UI composition.
+
 6.Significantly improves rendering performance for large 2D FITS matrix preview.
 
 ## Version 8.4.4 New Features
