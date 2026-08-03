@@ -26,17 +26,29 @@ It is especially tailored for large-scale spectroscopic survey data such as **LA
 # Version 8.4.4 New Features
 
 • Completely redesigned the BINTABLE workspace with a cleaner, more modern scientific interface.
+
 • Added enhanced Line, Histogram, and CDF visualization modes.
+
 • Added multi-column overlays for comparing numeric BINTABLE data series.
+
 • Added configurable line smoothing, range filtering, standard-deviation bands, and outlier highlighting.
+
 • Added optional mean and median indicators for histograms.
+
 • Added logarithmic histogram scaling and cumulative distribution analysis.
+
 • Expanded Science Assistant support for BINTABLE data, including natural-language plotting, filtering, smoothing, comparison, analysis, and export commands.
+
 • Added CSV export for raw columns and currently displayed data.
+
 • Added PNG and PDF export for BINTABLE plots.
+
 • Improved Crosshair visibility with a new high-contrast design.
+
 • Fixed incorrect plot sizing after switching BINTABLE columns.
+
 • Fixed BINTABLE tab interaction, closing, and favorite controls.
+
 • Improved scrolling, toolbar layout, chart stability, and overall usability.
 
 ## Version 8.4.1 New Features
