@@ -1,7 +1,25 @@
-# FITS QuickLook Studio Version 8.4.8
+# FITS QuickLook Studio Version 8.4.10
 
 FITS QuickLook X is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
+
+## Version 8.4.10 New Features
+### A faster Matrix workspace, redesigned for large-scale scientific data.
+
+This update delivers major performance and interface improvements to the Matrix Workspace:
+
+- Matrix tables now use bidirectional lazy loading, creating cells only near the visible area
+- The previous 80×80 preview limit has been removed, allowing access to the complete matrix
+- Heatmaps now support Metal GPU rendering with Rainbow, Turbo, Gray, and Hot color maps
+- Automatic CPU rendering fallback is available when Metal cannot be used
+- Large Surface datasets are automatically sampled to approximately 220×220
+- Large Contour datasets are automatically sampled to approximately 420×420
+- Surface and Contour sampling and Min/Max statistics are calculated once instead of during every interaction frame
+- Surface dragging and Contour peak and valley detection have been optimized
+- The redesigned workspace displays matrix dimensions, the current viewport, and Editing, Selected, and Modified states
+- Monospaced numbers improve readability, while blue and orange distinguish selections from modified values
+- A glass-style workspace, bottom status area, and operation hints provide a clearer interface
+- Cell editing, ROI, selection, Plot, and Transpose workflows remain fully supported
 
 
 ## Version 8.4.8 New Features
