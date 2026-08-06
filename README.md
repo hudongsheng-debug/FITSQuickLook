@@ -3,7 +3,7 @@
 **FITS QuickLook Studio** is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
 
-## Version 9.1.1 New Features
+## Version 9.0.0 New Features
 ### FITS QuickLook Studio now supports multiple languages.
 
 - Added support for Simplified Chinese, French, German, and Spanish.
