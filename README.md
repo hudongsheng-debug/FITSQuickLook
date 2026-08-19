@@ -7,7 +7,6 @@ It is especially tailored for large-scale spectroscopic survey data such as **LA
 ### A more reliable professional correction experience.
 
 Recommended for all users.
-
 This update fixes an important issue where some controls in the Professional Distortion Correction window might not respond or work as expected.
 
 ## Version 9.0.0 New Features
