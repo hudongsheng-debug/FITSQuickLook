@@ -1,7 +1,33 @@
-# FITS QuickLook Studio Version 9.0.1
+# FITS QuickLook Studio Version 10.0.0
 
 **FITS QuickLook Studio** is a lightweight macOS application designed for fast visualization and inspection of astronomical FITS images.  
 It is especially tailored for large-scale spectroscopic survey data such as **LAMOST**.
+
+## Version 10.0.0 New Features
+### Redesign for Everyone.
+
+Welcome to FITS QuickLook 10!
+
+In this release, we have significantly improved the usability of the Mac app and redesigned many of its core features. This update enhances FITS parsing, multi-HDU support, matrix processing, GPU rendering, and professional spectroscopy workflows, while also improving the toolbar, window management, accessibility, and integration between Mac, iPhone, and iPad.
+- Enhance FITS header parsing on Mac.
+- Improve multi-HDU browsing, switching, analysis, and export.
+- Improve image stretch controls on iOS.
+- Move input-based tools out of the sidebar into dedicated windows, and add their commands to the Mac menu bar.
+- Completely redesign the Matrix workspace.
+- Add a prominent, dedicated Header button for quick access to FITS headers.
+- Move other input-based tools out of the sidebar. Use standard windows, sheets, or inspectors instead of excessive floating panels.
+- Redesign Help to provide an experience consistent with the iOS version.
+- Move the remaining sidebar panels into more appropriate dedicated interfaces.
+- Remove large-matrix plotting limits and introduce GPU-accelerated rendering.
+- Update the visual and interaction design of floating panels to match the latest macOS design language.
+- Redesign both noise-analysis panels based on the iOS version and expand their capabilities.
+- Introduce comprehensive accessibility support, including VoiceOver, keyboard navigation, Dynamic Type, increased contrast, and reduced motion.
+- Improve the top toolbar according to Apple’s design principles; add Back and Recently Opened controls to tabs; reorganize Import, Info, Tools, and Help.
+- Update the Mac notification and push system.
+- Deliver the first generation of Nearby FITS Relay: Mac ↔ Mac.
+- Improve FITS export and writing formats to match the iOS implementation.
+- Bring the iOS Professional workflow to Mac and revise the Mac Keystone and Smile processing logic.
+- Complete Nearby FITS Relay between Mac and iPhone/iPad.
 
 ## Version 9.0.1 New Features
 ### A more reliable professional correction experience.
