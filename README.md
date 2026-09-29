@@ -768,9 +768,6 @@ FITS QuickLook Studio is available on the Mac App Store.
 	-	LAMOST project
 	-   Weinmin Sun  &  Haiping Chen 
 
-## Developer's Note: 
-This achievement has **NO** relation to any of the leaders from the School of Physics at Harbin Engineering University. Fuck the leadership. Fuck the new dean of the School of Physics（Jianzhong Zhang). Fuck everyone in the academic affairs office(Lin Zhang).
-
 ## Support
 
 If you encounter issues or have suggestions, please open an issue on this repository or contact the developer.
