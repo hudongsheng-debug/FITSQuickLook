@@ -768,6 +768,9 @@ FITS QuickLook Studio is available on the Mac App Store.
 	-	LAMOST project
 	-   Weinmin Sun  &  Haiping Chen 
 
+## Developer's Note: 
+This achievement has No relation to any of the leaders from the School of Physics at Harbin Engineering University. Fuck the leadership.
+
 ## Support
 
 If you encounter issues or have suggestions, please open an issue on this repository or contact the developer.
